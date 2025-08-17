@@ -1,0 +1,12 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1755436711
+icon.png::CompressedTexture2D::2158524861253723003::1755436671::1755436711::1::::<><><>0<>0<>00ba268e502da35f3b9b4c5e8fb3d30f<>res://.godot/imported/icon.png-487276ed1e3a0c39cad0279d744ee560.ctex::
+icon.svg::CompressedTexture2D::6719822843841003567::1755436671::1755436711::1::::<><><>0<>0<>c4d9bfb9a0b262734388572e24241eb7<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+README.md::TextFile::-1::1755436671::0::1::::<><><>0<>0<><>::
+wakatime_logo.jpg::CompressedTexture2D::7531345928140939071::1755436671::1755436711::1::::<><><>0<>0<>c4347e1b7f406d43b4b0123a70a05b8b<>res://.godot/imported/wakatime_logo.jpg-a50f628e445fd6bef17dff1651d611bc.ctex::
+::res://addons/::1755436671
+::res://addons/wakatime/::1755436671
+api_key_prompt.tscn::PackedScene::7230738953370575059::1755436671::0::1::::<><><>0<>0<><>::
+heartbeat.gd::GDScript::1017983027690778689::1755436671::0::1::::<>RefCounted<><>0<>0<><>::
+plugin.cfg::TextFile::-1::1755436671::0::1::::<><><>0<>0<><>::
+wakatime.gd::GDScript::6910458545279945505::1755436671::0::1::::<>EditorPlugin<><>0<>1<><>::
